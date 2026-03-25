@@ -21,5 +21,5 @@ Most productivity apps were designed for neurotypical users. They use streaks, r
 Open the live link on your phone. Tap the Share button, then "Add to Home Screen" for a full app experience.
 
 ## Status
-
-Beta. Built as a 0-to-1 portfolio project — designed, specified, iterated, and shipped without a development budget.
+Version 1 — Free to use, built with care
+(Open to collaborators)
