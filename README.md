@@ -12,11 +12,13 @@ Skye adapts your day based on how you're actually feeling. Every morning, one ta
 - Everything stored on your device — no account, no server, no data collection
 ## Why I built this
 Most productivity apps were designed for neurotypical users. They use streaks, reminders, and overdue labels — patterns that are actively harmful for people with ADHD or autism. Skye is designed around the research: variable capacity, non-punishing feedback, and low-friction entry points.
-## Product decisions worth noting
-- Replaced a 3-step morning check-in with a single tap after research showed multi-step rituals have very low completion rates for ADHD users
-- Removed streak counters entirely — replaced with a 7-day presence window ("4 of the last 7 days") that can never be "broken"
-- Tasks on rest days are filtered by duration, not just count — a 90-minute deep work task doesn't appear on a score-1 day even if it's marked high priority
-- "Not today" deferral never moves the task's creation timestamp — stale detection still works correctly after deferral
+
+## Why Skye works differently
+**No long setup.** Most apps ask you five questions before you've had your coffee. Skye asks one. One tap, and your day is ready.
+**No broken streaks.** Streaks punish you for being human. Skye shows you how often you showed up in the last 7 days — and missing a day doesn't erase what you did.
+**Rest days actually rest you.** On a hard day, Skye won't show you a 90-minute deep work task just because it's "high priority." It only shows you what's actually doable right now.
+**"Not today" means not today — not never.** Pushing a task to tomorrow doesn't delete it or mark it overdue. It just quietly moves it. No guilt, no red badges, no judgment.
+
 ## How to use it
 Open the live link on your phone. Tap the Share button, then "Add to Home Screen" for a full app experience.
 
