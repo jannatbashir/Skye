@@ -3,16 +3,16 @@ A mobile wellness app for neurodivergent people — built for ADHD, autism, and 
 
 Live app → https://getskye.netlify.app/
 ## What it does
-Skye adapts your day based on how you're actually feeling. Every morning, one tap tells Skye your mood. Skye calculates a Capacity Score (1–5) and adjusts what tasks you see, how many, and how hard they are — so your day fits your energy, not the other way around.
+Skye adapts your day based on how you're actually feeling. Every morning, one tap tells Skye your mood. Skye calculates a Capacity Score (1–5) and adjusts what tasks you see, how many, and how hard they are - so your day fits your energy, not the other way around.
 - One-tap morning check-in, no forms, no friction
-- Capacity-adaptive task list — rest days show 2 tasks, flow days show everything
-- "Not today" deferral with undo — tasks move to tomorrow without guilt
-- Habit tracking without streaks — shows up as a constellation, never punishes a missed day
+- Capacity-adaptive task list - rest days show 2 tasks, flow days show everything
+- "Not today" deferral with undo - tasks move to tomorrow without guilt
+- Habit tracking without streaks - shows up as a constellation, never punishes a missed day
 - Box breathing, grounding, and body scan built in
 - Dyslexia-friendly font toggle
-- Everything stored on your device — no account, no server, no data collection
+- Everything stored on your device - no account, no server, no data collection
 ## Why I built this
-Most productivity apps were designed for neurotypical users. They use streaks, reminders, and overdue labels — patterns that are actively harmful for people with ADHD or autism. Skye is designed around the research: variable capacity, non-punishing feedback, and low-friction entry points.
+Most productivity apps were designed for neurotypical users. They use streaks, reminders, and overdue labels - patterns that are actively harmful for people with ADHD or autism. Skye is designed around the research: variable capacity, non-punishing feedback, and low-friction entry points.
 
 ## Why Skye works differently
 - **No long setup.** Most apps ask you five questions before you've had your coffee. Skye asks one. One tap, and your day is ready.
