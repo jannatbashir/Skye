@@ -1,5 +1,5 @@
 # Skye
-A mobile wellness app for neurodivergent people — built for ADHD, autism, and dyslexia.
+A mobile wellness app for neurodivergent people - built for ADHD, autism, and dyslexia.
 
 Live app → https://getskye.netlify.app/
 ## What it does
@@ -17,7 +17,7 @@ Most productivity apps were designed for neurotypical users. They use streaks, r
 ## Why Skye works differently
 - **No long setup.** Most apps ask you five questions before you've had your coffee. Skye asks one. One tap, and your day is ready.
 
-- **No broken streaks.** Streaks punish you for being human. Skye shows you how often you showed up in the last 7 days — and missing a day doesn't erase what you did.
+- **No broken streaks.** Streaks punish you for being human. Skye shows you how often you showed up in the last 7 days - and missing a day doesn't erase what you did.
 
 - **Rest days actually rest you.** On a hard day, Skye won't show you a 90-minute deep work task just because it's "high priority." It only shows you what's actually doable right now.
 
