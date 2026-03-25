@@ -21,7 +21,7 @@ Most productivity apps were designed for neurotypical users. They use streaks, r
 
 - **Rest days actually rest you.** On a hard day, Skye won't show you a 90-minute deep work task just because it's "high priority." It only shows you what's actually doable right now.
 
-- **"Not today" means not today — not never.** Pushing a task to tomorrow doesn't delete it or mark it overdue. It just quietly moves it. No guilt, no red badges, no judgment.
+- **"Not today" means not today - not never.** Pushing a task to tomorrow doesn't delete it or mark it overdue. It just quietly moves it. No guilt, no red badges, no judgment.
 
 ## How to use it
 Open the live link on your phone. Tap the Share button, then "Add to Home Screen" for a full app experience.
