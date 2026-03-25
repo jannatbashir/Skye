@@ -1,6 +1,6 @@
 # Skye
 A mobile wellness app for neurodivergent people — built for ADHD, autism, and dyslexia.
-Live app → getskye.netlify.app
+Live app → https://getskye.netlify.app/
 ## What it does
 Skye adapts your day based on how you're actually feeling. Every morning, one tap tells Skye your mood. Skye calculates a Capacity Score (1–5) and adjusts what tasks you see, how many, and how hard they are — so your day fits your energy, not the other way around.
 - One-tap morning check-in, no forms, no friction
